@@ -1,2 +1,5 @@
 # kagi-lite
-An extension to add kagi to firefox, without the new tab page and the redirect
+An extension to add Kagi to firefox and this verison of the extension does not have the privacy respecting new tab and redirect from other search engines the regular verison has and this extension is open source to ensure you can know what this extension is doing and even make your own verison of the extension. Kagi is a new and up and coming search engine meant to respect your privacy and has no ads Kagi: https://kagi.com/ Thank you to the team at Kagi for making this extension possible.
+A link to the regular verison of this extension: https://addons.mozilla.org/firefox/addon/kagi/
+##How to install 
+You can get it (once you downloaded the code) running by going to about:debugging in firefox and clicking the "this firefox" link and clicking "Load Temporany Add-on" and finding the main manifest.json file from my code. This is only a temporary solution since it resets every time you restart firefox and I have already submitted it to the add-on store, I just need to wait for it to be approved but until then you can use the regular extension
